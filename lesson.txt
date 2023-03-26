@@ -1,4 +1,3 @@
 unreal code 
 print("hello lesson!")
-ADASdasdadadasdasddas
-gl;df,gldf,gld
+
